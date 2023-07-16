@@ -1,0 +1,27 @@
+* {
+    background-color: bisque;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.about-me {
+    background-color: aqua;
+    color: white;
+}
+.intro {
+    background-color: blueviolet;
+    width: 200px;
+    color: white;
+
+}
+.courses {
+    background-color: brown;
+    width: 200px;
+    color: white;
+
+}
+.ashik {
+    background-color: green;
+    width: 200px;
+    color: white;
+
+}
